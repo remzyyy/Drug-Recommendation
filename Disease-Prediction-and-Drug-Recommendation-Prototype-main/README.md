@@ -1,5 +1,5 @@
 # 🏥 Disease Prediction & Drug Recommendation System
-### Final Year Major Project (2024)
+### Major Project (2025)
 ### Department of Artificial Intelligence and Data Science (AI & DS)
 
 A machine learning system that predicts diseases based on symptoms and recommends medications using patient review data analysis.
@@ -108,12 +108,11 @@ Disease-Prediction-and-Drug-Recommendation-Prototype/
 This system is a prototype for educational purposes. Always consult healthcare professionals for medical advice.
 
 ## 👨‍💻 Project Team
-- Student Name: Puneeth Raj
-- Roll Number: 21831A7251
-- Supervisor: Sheeltal Kundra
-- Department: Artificial Intelligence and Data Science (AI & DS)
+- Student Name: Rameez Siddiqui
+- Roll Number: b122089
+- Department: Computer Science
 
 ## 📧 Contact
-Student Email: [puneeth@duck.com](mailto:puneeth@duck.com)
-
+Student Email: [rameezsid1234@gmai.com](mailto:rameezsid1234@gmai.com)
+college Email: [b122089@iiit-bh.ac.in](mailto:b122089@iiit-bh.ac.in)
 Project Link: [GitHub Repository](https://github.com/darkxdd/Disease-Prediction-and-Drug-Recommendation-Prototype)
